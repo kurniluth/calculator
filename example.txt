@@ -85,3 +85,4 @@ A cat called Dusty has the known record for the most kittens. She had more than 
 The Amur leopard is one of the most endangered animals in the world.
 A cat’s heart beats nearly twice as fast as a human heart, at 110 to 140 beats a minute.
 The first cat in space was a French cat named Felicette (a.k.a. “Astrocat”) In 1963, France blasted the cat into outer space. Electrodes implanted in her brains sent neurological signals back to Earth. She survived the trip.
+Cats have 30 vertebrae (humans have 33 vertebrae during early development; 26 after the sacral and coccygeal regions fuse)
